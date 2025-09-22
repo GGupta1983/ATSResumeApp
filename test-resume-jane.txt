@@ -1,0 +1,22 @@
+JANE SMITH
+Software Developer
+Email: jane.smith@email.com
+
+SKILLS
+• JavaScript, React, Node.js
+• Python, Django
+• MongoDB, PostgreSQL
+
+EXPERIENCE
+Software Developer | ABC Corp | 2022-Present
+• Developed web applications using React and Node.js
+• Implemented REST APIs serving 50K+ users
+• Collaborated with cross-functional teams
+
+Junior Developer | XYZ Inc | 2021-2022
+• Built responsive user interfaces
+• Fixed bugs and implemented features
+• Participated in code reviews
+
+EDUCATION
+Computer Science Degree | University | 2021

@@ -1,0 +1,54 @@
+{
+  "name": "ats-match-service",
+  "version": "2.0.0",
+  "description": "GenAI-powered intelligent candidate-job matching microservice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "node test-match-service.js",
+    "test:health": "curl http://localhost:4004/health"
+  },
+  "keywords": [
+    "ats",
+    "matching",
+    "genai",
+    "microservice",
+    "azure-openai",
+    "mongodb"
+  ],
+  "author": "Garima Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.0.1",
+    "helmet": "^8.1.0",
+    "joi": "^18.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0",
+    "openai": "^5.15.0",
+    "p-limit": "^6.1.0",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ats-app.git",
+    "directory": "match-service"
+  },
+  "config": {
+    "port": 4004,
+    "mongodb_uri": "mongodb://localhost:27017/matchservice",
+    "service_name": "match-service"
+  }
+}

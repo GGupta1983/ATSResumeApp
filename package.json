@@ -1,0 +1,38 @@
+{
+  "scripts": {
+    "start:gateway": "node gateway-service/app.js",
+    "start:user": "node user-service/app.js",
+    "start:resume": "node resume-service/app.js",
+    "start:job": "node job-service/app.js",
+    "start:candidate": "node candidate-service/app.js",
+    "start:match": "node match-service/app.js",
+    "start:notification": "node notification-service/app.js",
+    "test:health": "node test.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "axios": "^1.11.0",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-http-proxy": "^2.1.1",
+    "express-jwt": "^8.5.1",
+    "express-rate-limit": "^8.0.1",
+    "express-validator": "^7.2.1",
+    "form-data": "^4.0.4",
+    "helmet": "^8.1.0",
+    "http-proxy-middleware": "^3.0.5",
+    "joi": "^18.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "mammoth": "^1.10.0",
+    "mongo-sanitize": "^1.1.0",
+    "mongoose": "^8.18.0",
+    "multer": "^2.0.2",
+    "openai": "^5.15.0",
+    "p-limit": "^6.2.0",
+    "pdf-parse": "^1.1.1",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.17.0"
+  }
+}

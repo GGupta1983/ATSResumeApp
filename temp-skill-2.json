@@ -1,0 +1,99 @@
+{
+    "resume_id": "resume_1757750965496_xg1g9h6x5",
+    "profileAnalysis": {
+        "coreCompetencies": [
+            {
+                "skill": "Engineering Management",
+                "proficiencyLevel": "Expert",
+                "yearsOfExperience": 16,
+                "contextualEvidence": "Dynamic Manager with 16+ years of experience in leading cross-functional teams to deliver innovative engineering solutions.",
+                "impactIndicators": [
+                    "Improved project timelines by 30%",
+                    "Reduced errors by 80%"
+                ]
+            },
+            {
+                "skill": "Automation Testing",
+                "proficiencyLevel": "Expert",
+                "yearsOfExperience": 8,
+                "contextualEvidence": "Directed automation testing initiatives, improving test coverage by 45% through innovative frameworks.",
+                "impactIndicators": [
+                    "Reduced manual testing efforts by 35%",
+                    "Accelerated release cycles"
+                ]
+            },
+            {
+                "skill": "Software Development",
+                "proficiencyLevel": "Advanced",
+                "yearsOfExperience": 17,
+                "contextualEvidence": "Drove product and technology roadmaps, delivering features using AI tools and GitHub Copilot.",
+                "impactIndicators": [
+                    "Enhanced application functionality",
+                    "Increased efficiency by saving 45% hours per month"
+                ]
+            },
+            {
+                "skill": "Technical Decision Making",
+                "proficiencyLevel": "Advanced",
+                "yearsOfExperience": 16,
+                "contextualEvidence": "Managed technical decisions for frontend components, ensuring accessibility, localization, and performance optimization.",
+                "impactIndicators": [
+                    "Improved customer satisfaction",
+                    "Achieved high-quality, on-time delivery"
+                ]
+            }
+        ],
+        "leadershipProfile": {
+            "hasLeadershipExperience": true,
+            "teamSizes": [
+                3,
+                10
+            ],
+            "leadershipStyle": "Transformational, focusing on team development and performance improvement.",
+            "managementCapabilities": [
+                "Training and coaching",
+                "Cross-functional team leadership",
+                "Performance management"
+            ]
+        },
+        "careerProgression": {
+            "seniorityTrajectory": "Executive",
+            "growthVelocity": "Rapid",
+            "domainExpertise": [
+                "Engineering Management",
+                "Automation Testing",
+                "Software Development"
+            ],
+            "adaptabilityIndicators": [
+                "Managed multiple teams across different organizations",
+                "Adapted to new technologies like AI tools"
+            ]
+        },
+        "technicalDepth": {
+            "architecturalThinking": true,
+            "scalabilityExperience": "Participated in architecture discussions to align product features with business requirements, ensuring high-quality delivery.",
+            "innovationCapacity": "High",
+            "technicalLeadershipStyle": "Collaborative, involving cross-functional teams to achieve business goals."
+        },
+        "collaborationStyle": {
+            "crossFunctionalExperience": "Collaborated with product owners, engineers, and architects across multiple geographies.",
+            "communicationSkills": "Streamlined communication across departments via regular meetings, improving collaboration.",
+            "mentorshipApproach": "Trained newly joined Engineering Managers and set performance standards through KRAs.",
+            "culturalContributions": [
+                "Fostered a culture of continuous improvement",
+                "Encouraged collaboration across teams"
+            ]
+        },
+        "achievementPatterns": {
+            "quantifiableImpacts": [
+                "Achieved 35% improvement in delivery timelines",
+                "Reduced implementation delays by 45%"
+            ],
+            "problemSolvingApproach": "Utilized innovative frameworks and automation to streamline processes and improve efficiency.",
+            "businessAcumen": "Drove product and technology roadmaps aligned with business requirements, enhancing overall customer satisfaction."
+        }
+    },
+    "lastAnalyzed": "2025-09-13T10:53:39.102Z",
+    "analysisVersion": 7,
+    "message": "Resume analysis completed successfully"
+}

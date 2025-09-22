@@ -1,0 +1,38 @@
+{
+  "name": "resume-service",
+  "version": "2.0.0",
+  "description": "GenAI-powered Resume Service with intelligent resume analysis and profiling",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.6.0",
+    "aws-sdk": "^2.1504.0",
+    "winston": "^3.11.0",
+    "swagger-ui-express": "^5.0.0",
+    "swagger-jsdoc": "^6.2.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "ats",
+    "resume",
+    "genai",
+    "azure-openai",
+    "intelligent-analysis",
+    "pdf-parsing"
+  ],
+  "author": "GenAI ATS Team",
+  "license": "MIT"
+}

@@ -1,0 +1,108 @@
+{
+    "resume_id": "resume_1757750965496_xg1g9h6x5",
+    "profileAnalysis": {
+        "coreCompetencies": [
+            {
+                "skill": "Team Leadership",
+                "proficiencyLevel": "Expert",
+                "yearsOfExperience": 16,
+                "contextualEvidence": "Built strong teams by implementing training and coaching programs, improving team performance and skills.",
+                "impactIndicators": [
+                    "Improved team performance",
+                    "Trained newly joined EMs"
+                ]
+            },
+            {
+                "skill": "Project Management",
+                "proficiencyLevel": "Expert",
+                "yearsOfExperience": 16,
+                "contextualEvidence": "Drove product and technology roadmaps, delivering features using AI tools and GitHub Copilot.",
+                "impactIndicators": [
+                    "Improved project timelines by 30%",
+                    "Delivered features on time"
+                ]
+            },
+            {
+                "skill": "Automation Testing",
+                "proficiencyLevel": "Advanced",
+                "yearsOfExperience": 6,
+                "contextualEvidence": "Directed automation testing initiatives, improving test coverage by 45% through innovative frameworks.",
+                "impactIndicators": [
+                    "Reduced defects by 30%",
+                    "Accelerated release cycles"
+                ]
+            },
+            {
+                "skill": "Technical Decision Making",
+                "proficiencyLevel": "Advanced",
+                "yearsOfExperience": 8,
+                "contextualEvidence": "Managed technical decisions for frontend components, ensuring accessibility, localization, and performance optimization.",
+                "impactIndicators": [
+                    "Enhanced application functionality",
+                    "Boosted customer satisfaction"
+                ]
+            },
+            {
+                "skill": "Integration Management",
+                "proficiencyLevel": "Advanced",
+                "yearsOfExperience": 4,
+                "contextualEvidence": "Delivered key integrations such as Facebook and WeChat, enhancing application functionality.",
+                "impactIndicators": [
+                    "Improved user engagement by 20%",
+                    "Enhanced data accuracy by 30%"
+                ]
+            }
+        ],
+        "leadershipProfile": {
+            "hasLeadershipExperience": true,
+            "teamSizes": [
+                3,
+                10
+            ],
+            "leadershipStyle": "Collaborative and performance-driven, focused on accountability and continuous improvement.",
+            "managementCapabilities": [
+                "Talent acquisition and retention",
+                "Performance management through KRAs"
+            ]
+        },
+        "careerProgression": {
+            "seniorityTrajectory": "Senior",
+            "growthVelocity": "Steady",
+            "domainExpertise": [
+                "Engineering Management",
+                "Automation Testing",
+                "Cross-Functional Team Leadership"
+            ],
+            "adaptabilityIndicators": [
+                "Led teams across different companies",
+                "Adapted to modern tech stacks like React JS and Node.js"
+            ]
+        },
+        "technicalDepth": {
+            "architecturalThinking": true,
+            "scalabilityExperience": "Participated in architecture discussions to align product features with business requirements.",
+            "innovationCapacity": "High",
+            "technicalLeadershipStyle": "Detail-oriented with a focus on optimizing processes and improving quality."
+        },
+        "collaborationStyle": {
+            "crossFunctionalExperience": "Collaborated with cross-functional teams across geographies to meet product delivery and customer commitments.",
+            "communicationSkills": "Streamlined communication across departments via regular meetings, improving collaboration on complex projects.",
+            "mentorshipApproach": "Trained newly joined EMs and set performance standards through feedback cycles.",
+            "culturalContributions": [
+                "Implemented training and coaching programs",
+                "Fostered an environment of continuous improvement"
+            ]
+        },
+        "achievementPatterns": {
+            "quantifiableImpacts": [
+                "Saved 45% hours per month through automation",
+                "Reduced errors by 80%"
+            ],
+            "problemSolvingApproach": "Introduced quality control measures and automation to streamline processes and enhance efficiency.",
+            "businessAcumen": "Aligned product features with business goals, ensuring high-quality, on-time delivery."
+        }
+    },
+    "lastAnalyzed": "2025-09-13T10:50:36.880Z",
+    "analysisVersion": 6,
+    "message": "Resume analysis completed successfully"
+}
